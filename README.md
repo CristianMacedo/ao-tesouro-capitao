@@ -4,7 +4,7 @@ A game developed in Python 3 with the module pygame with children educational pu
 
 Authors: Cristian Silva Macedo, Victor Enrique Marinho, Vinicius Castelani dos Santos
 
-----
+
 
 ## GDDE
 
@@ -38,7 +38,7 @@ Captain Kidd is a fearless good pirate, determined to find the treasures in the 
 
 This game introduces a series of important principles to develop: Logical reasoning, Mathematical reasoning and motor coordination.
 
----
+
 
 ## How to install
 
